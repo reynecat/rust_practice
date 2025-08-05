@@ -1,6 +1,9 @@
 [package]
-name = "guessing_game"
-version = "0.1.0"
-edition = "2024"
+name = "hello_cargo" # 패키지명
+version = "0.1.0"  # 버전
+edition = "2024" # 작성자
 
-[dependencies]
+[dependencies] # 의존성 목록 (crate)
+rand = "0.8.5"
+
+

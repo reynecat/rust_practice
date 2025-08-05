@@ -1,7 +1,0 @@
-[package]
-name = "hello_cargo" # 패키지명
-version = "0.1.0"  # 버전
-edition = "2024" # 작성자
-
-[dependencies] # 의존성 목록 (crate)
-
